@@ -1,0 +1,56 @@
+CS100,Introduction to Programming with problem solving fundamentals using basic control structures
+CS110,Programming Fundamentals focusing on variables functions and modular program design,CS100
+CS120,Object Oriented Programming using classes inheritance and polymorphism,CS110
+CS150,Computer Science Orientation covering career paths tools and professional expectations
+
+CS200,Data Structures emphasizing lists stacks queues trees and algorithm efficiency,CS120
+CS210,Discrete Structures introducing logic sets relations and proofs for computing,CS120
+CS220,Data Representation examining data encoding memory and low level structures,CS120
+
+CS250,Software Development Lifecycle covering requirements design implementation and testing,CS200
+CS260,Computer Organization studying CPU architecture memory hierarchy and assembly basics,CS220
+CS270,Logic and Computation focusing on formal reasoning and computational models,CS210
+
+CS300,Analysis and Design emphasizing problem decomposition UML modeling and design patterns,CS200
+CS305,Software Security principles including risk analysis vulnerabilities and mitigation strategies,CS250
+CS310,Algorithms focusing on searching sorting recursion and complexity analysis,CS200,CS210
+CS320,Software Testing and Automation covering unit testing integration testing and CI tools,CS250
+
+CS330,Computational Graphics and Visualization introducing OpenGL rendering lighting and textures,CS200
+CS340,Client Server Development covering networking APIs and database driven applications,CS200
+CS350,Emerging Systems Architectures focusing on embedded systems and hardware software interaction,CS260
+CS360,Mobile Architecture and Programming designing applications for mobile platforms,CS250
+
+CS370,Current and Emerging Trends in Computer Science examining ethical social and technical impacts,CS300
+CS380,Artificial Intelligence introducing search machine learning and intelligent agents,CS310
+CS390,Special Topics in Computer Science exploring advanced or experimental computing subjects,CS300
+
+CS405,Secure Coding applying defensive programming and industry security standards,CS305
+CS410,Advanced Algorithms analyzing graph algorithms dynamic programming and optimization,CS310
+CS420,Machine Learning covering supervised and unsupervised learning techniques,CS380
+CS430,Distributed Systems focusing on concurrency scalability and fault tolerance,CS340
+
+CS450,Database Management Systems covering relational models SQL normalization and transactions,CS200
+CS460,Big Data Analytics analyzing large scale data using distributed processing techniques,CS450
+CS470,Cloud Computing studying virtualization deployment models and cloud security,CS340
+
+CS499,Computer Science Capstone integrating design development and presentation of a major project,CS300,CS320,CS340
+
+IT140,Introduction to Scripting using basic automation and interpreted programming languages
+IT145,Foundations in Application Development focusing on object oriented design principles,IT140
+IT200,Fundamentals of Information Technology covering hardware software and networking basics
+IT212,Introduction to Computer Networks studying protocols network models and communication,IT200
+IT315,Ethical and Legal Considerations in IT addressing policy privacy and professional responsibility
+
+MAT136,Introduction to Quantitative Analysis focusing on mathematical reasoning for real world problems
+MAT140,Precalculus reviewing algebraic functions graphs and equations
+MAT225,Calculus I introducing limits derivatives and applications of differentiation,MAT140
+MAT230,Calculus II extending integration techniques and series analysis,MAT225
+MAT240,Linear Algebra covering matrices vectors and linear transformations,MAT225
+MAT243,Applied Statistics introducing probability distributions hypothesis testing and regression,MAT136
+
+PHY150,Physics I studying mechanics motion energy and forces,MAT140
+PHY160,Physics II covering electricity magnetism and waves,PHY150
+
+ENG122,English Composition I focusing on academic writing research and argumentation
+ENG123,English Composition II emphasizing analytical writing and advanced research skills,ENG122
