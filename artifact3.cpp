@@ -10,7 +10,7 @@
 
 /*
 ========================================================
-CS 499 – Milestone Four: Databases Enhancement
+CS 499 â€“ Milestone Four: Databases Enhancement
 --------------------------------------------------------
 This version of the CS 300 Analysis and Design course
 planner has been enhanced to demonstrate database
